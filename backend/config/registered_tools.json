@@ -1,0 +1,12 @@
+[
+  {
+    "name": "reverseString",
+    "kind": "function",
+    "description": "this should reverse whatever it gets as input and returns the reversed output",
+    "parameters": [
+      "input"
+    ],
+    "llm_proxy": true,
+    "code": null
+  }
+]
