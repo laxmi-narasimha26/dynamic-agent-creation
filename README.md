@@ -178,12 +178,15 @@ Principles:
 
 ## 6) Submission Instructions
 
-- Push code to a public GitHub repo named `dynamic-agent-creation-<yourname>`.
+- Push code to a public GitHub repo named `dynamic-agent-creation.
 - Create a tagged release `v0.1`.
-- (Optional) Attach a ≤3 minute screen-capture demo showing:
-  - Creating a new agent with prebuilt + custom tools
-  - Executing a query that uses multiple tools
-  - The resulting execution trace (paste the example above if reproducing exactly)
+- Attach a ≤3 minute screen-capture demo showing:
+- 
+  
+
+https://github.com/user-attachments/assets/be4e2022-85dc-46d8-80b0-432a5812a4a3
+
+
 
 ---
 
